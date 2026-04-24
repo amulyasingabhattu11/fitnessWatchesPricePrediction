@@ -1,0 +1,362 @@
+{
+  "ULTRON": {
+    "parent_company": "ULTRON",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Mid-range",
+    "primary_target_audience": "Fitness enthusiasts and general consumers seeking affordable smartwatches",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "Ezerio": {
+    "parent_company": "Ezerio",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Fitness enthusiasts on a budget",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "RGV": {
+    "parent_company": "RGV",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Entry-level fitness enthusiasts and budget-conscious consumers",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "Nikki": {
+    "parent_company": "Nikki",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking basic fitness tracking",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "OXILAG": {
+    "parent_company": "OXILAG",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Entry-level fitness enthusiasts and budget-conscious consumers",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "GOBOULT": {
+    "parent_company": "GOBOULT",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Budget-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "GameSir": {
+    "parent_company": "GameSir",
+    "country_of_origin": "China",
+    "founded_year": 2014,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Gamers and casual users",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "sweetex": {
+    "parent_company": "Sweetex",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking affordable fitness tracking",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "S": {
+    "parent_company": "Unknown",
+    "country_of_origin": "Unknown",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking basic fitness tracking",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "Fastrack": {
+    "parent_company": "Titan Company Limited",
+    "country_of_origin": "India",
+    "founded_year": 2005,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Youth and young adults",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "High"
+  },
+  "MVC": {
+    "parent_company": "Unknown",
+    "country_of_origin": "Unknown",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking basic fitness tracking",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "Avonix": {
+    "parent_company": "Avonix",
+    "country_of_origin": "India",
+    "founded_year": 2019,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "WTG": {
+    "parent_company": "WTG",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Budget-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "Maxima": {
+    "parent_company": "Maxima",
+    "country_of_origin": "India",
+    "founded_year": 1996,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking and smartwatch features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "High"
+  },
+  "Nervfit": {
+    "parent_company": "Nervfit",
+    "country_of_origin": "India",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Fitness enthusiasts seeking affordable and basic tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "Medium"
+  },
+  "JOKIN": {
+    "parent_company": "JOKIN",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Budget-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "MBS": {
+    "parent_company": "MBS",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking basic fitness tracking",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "SUSTAINIX": {
+    "parent_company": "SUSTAINIX",
+    "country_of_origin": "Unknown",
+    "founded_year": null,
+    "brand_tier": "Mid-range",
+    "primary_target_audience": "Health-conscious individuals seeking sustainable and eco-friendly wearable technology.",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "TULUA": {
+    "parent_company": "TULUA",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Fitness enthusiasts seeking affordable and functional smartwatches",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "Medium"
+  },
+  "Yash": {
+    "parent_company": "Yash",
+    "country_of_origin": "India",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking basic fitness tracking",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "PunnkFunnk": {
+    "parent_company": "PunnkFunnk",
+    "country_of_origin": "India",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Youth and budget-conscious consumers",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "Medium"
+  },
+  "Fire-Boltt": {
+    "parent_company": "Fire-Boltt",
+    "country_of_origin": "India",
+    "founded_year": 2015,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking affordable smartwatches and fitness trackers",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "TECHMAZE": {
+    "parent_company": "TECHMAZE",
+    "country_of_origin": "India",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Students and budget-conscious consumers",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "Lifelong": {
+    "parent_company": "Lifelong Online Retail Private Limited",
+    "country_of_origin": "India",
+    "founded_year": 2015,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking and smart features at an affordable price point.",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "Wyltron": {
+    "parent_company": "Wyltron",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "MORDEN": {
+    "parent_company": "MORDEN",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "Luyten": {
+    "parent_company": "Luyten",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "FITRIC": {
+    "parent_company": "FITRIC",
+    "country_of_origin": "India",
+    "founded_year": 2021,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Fitness enthusiasts and general consumers seeking affordable health tracking solutions",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "Vishaq": {
+    "parent_company": "Vishaq",
+    "country_of_origin": "India",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Budget-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "Melbon": {
+    "parent_company": "Melbon",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Medium"
+  },
+  "Pebble": {
+    "parent_company": "Pebble",
+    "country_of_origin": "India",
+    "founded_year": 2013,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking and smartwatch features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "High"
+  },
+  "Vibez": {
+    "parent_company": "Vibez",
+    "country_of_origin": "India",
+    "founded_year": 2021,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Youth and budget-conscious consumers",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "ATSK": {
+    "parent_company": "ATSK",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Value-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "WauroNix": {
+    "parent_company": "WauroNix",
+    "country_of_origin": "China",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Budget-conscious consumers seeking basic fitness tracking features",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  },
+  "Mynx": {
+    "parent_company": "Mynx",
+    "country_of_origin": "India",
+    "founded_year": 2020,
+    "brand_tier": "Budget",
+    "primary_target_audience": "Young adults and budget-conscious consumers seeking basic fitness tracking and smartwatch features.",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": true,
+    "confidence": "High"
+  },
+  "PANKAJ": {
+    "parent_company": "PANKAJ",
+    "country_of_origin": "India",
+    "founded_year": null,
+    "brand_tier": "Budget",
+    "primary_target_audience": "General consumers seeking basic fitness tracking features at an affordable price point.",
+    "number_of_associated_brands": 0,
+    "is_direct_to_consumer": false,
+    "confidence": "Low"
+  }
+}
